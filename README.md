@@ -73,15 +73,15 @@ This project includes advanced DAX concepts such as:
 ## 🖼️ Project Screenshots
 
 ### 1. Power Query Editor
-![Power Query](docs/power query.png)  
+![Power Query](docs/power-query.png)  
 ETL step flow for transforming and cleaning raw data before modeling.
 
 ### 2. Data Model View
-![Data Model](docs/data model.png)  
+![Data Model](docs/data-model.png)  
 Star schema model showing relationships between fact and dimension tables.
 
 ### 3. Measures Table (DAX)
-![Table Measures](docs/table measures.png)  
+![Table Measures](docs/table-measures.png)  
 Collection of DAX measures driving all calculations and KPIs in the dashboards.
 
 ### 4. Executive Dashboard Overview
