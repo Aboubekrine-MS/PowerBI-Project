@@ -13,7 +13,7 @@ This end-to-end Power BI solution showcases the complete BI workflow:
 ## 🛠 Key Features
 
 - Multiple data sources integrated and cleaned with **Power Query**
-- Star schema data model using **DAX** for KPIs, time intelligence, and dynamic insights
+- Constellation schema data model using **DAX** for KPIs, time intelligence, and dynamic insights
 - Interactive dashboards with:
   - Slicers and filters
   - Bookmarks and navigation panels
@@ -26,7 +26,7 @@ This end-to-end Power BI solution showcases the complete BI workflow:
 
 - Power BI Desktop  
 - Power Query (ETL)  
-- Data Modeling (Star Schema, Relationships)  
+- Data Modeling (Constellation Schema, Relationships)  
 - DAX (Measures, Time Intelligence, Filters)  
 - Data Visualization (Charts, Cards, AI Visuals)  
 - Performance Optimization  
@@ -77,7 +77,7 @@ ETL step flow for transforming and cleaning raw data before modeling.
 
 ### 2. Data Model View
 ![Data Model](docs/data-model.png)  
-Star schema model showing relationships between fact and dimension tables.
+Constellation schema model showing relationships between fact and dimension tables.
 
 ### 3. Measures Table (DAX)
 ![Table Measures](docs/table-measures.png)  
@@ -111,17 +111,15 @@ Breakdown of return rates across categories and products for root cause analysis
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
----
-
-## 🙋 About Me
-
-I'm a data enthusiast with a Master's in Information System Engineering and a background in IT & Management. This project reflects my passion for transforming data into actionable insights through modern BI tools like Power BI.
-
----
 
 ## 👨‍💻 About Me
 
-Hi, I'm an IT professional passionate about transforming raw data into actionable insights.  
-This project reflects my passion for transforming data into actionable insights through modern BI tools like Power BI.
+Hi, I'm an IT professional with a strong focus on Business Intelligence and data analytics.  
+This project showcases my ability to deliver end-to-end BI solutions using Power BI, including:
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aboubekrine-sedigh/) 
+- Data extraction and transformation using Power Query  
+- Building analytical models with constellation schema architecture  
+- Creating dynamic DAX measures for actionable KPIs  
+- Designing interactive dashboards with drill-through, slicers, and navigation  
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aboubekrine-sedigh/)
