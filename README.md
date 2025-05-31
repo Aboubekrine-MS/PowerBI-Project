@@ -1,5 +1,4 @@
-# PowerBI-Project
-# 📊 Power BI Business Intelligence Project
+# 📊 Power-BI Business Intelligence Project
 
 In this project, I step into the role of a **Business Intelligence Analyst** for *Maple Market*, a fictional retail company. The mission: transform raw business data into impactful reports and dashboards that drive smarter decision-making.
 
@@ -20,7 +19,7 @@ This end-to-end Power BI solution showcases the complete BI workflow:
   - Bookmarks and navigation panels
   - AI-powered visuals
   - **Page navigation buttons and filter clear buttons**
-  - **Visual-level interactions between charts and metrics**
+  - **Visual-level interactions between charts**
 - Performance tuning with **Performance Analyzer** and optimization best practices
 
 ## 📌 Skills & Tools
@@ -98,7 +97,7 @@ Geographic visualization of global sales distribution using interactive map filt
 
 ### 7. Product Performance Detail
 ![Dashboard 4](docs/dashboard4.png)  
-Product-specific analysis with profit/revenue tracking vs. targets and returns.
+**This page is a drill-through report**, accessed by right-clicking a product row in the table on the Executive Dashboard. It provides deeper insights into the selected product’s sales, profit, and return trends, along with performance vs. targets.
 
 ### 8. Key Influencer Visual
 ![Dashboard 5](docs/dashboard5.png)  
@@ -119,3 +118,10 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 I'm a data enthusiast with a Master's in Information System Engineering and a background in IT & Management. This project reflects my passion for transforming data into actionable insights through modern BI tools like Power BI.
 
 ---
+
+## 👨‍💻 About Me
+
+Hi, I'm an IT professional passionate about transforming raw data into actionable insights.  
+This project reflects my passion for transforming data into actionable insights through modern BI tools like Power BI.
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aboubekrine-sedigh/) 
